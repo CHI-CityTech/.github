@@ -32,8 +32,9 @@ CHI Repositories are divided into different major categories:  Research, Adminis
 #### **CHI Meta-Projects & Administration**  
 | **Repository** | **Description** |
 |--------------|----------------|
-| [CHIIDS](https://github.com/CHI-CityTech/CHIIDS) | Center for Holistic Integration’s Integrated Digital System. |
+| [Student Research](https://github.com/CHI-CityTech/StudentResearch) | Repository for student research proposals and activities. |
 | [CHI-Admin](https://github.com/CHI-CityTech/CHI-Admin) | Administrative repository for CHI projects. |
+| [CHIIDS](https://github.com/CHI-CityTech/CHIIDS) | Center for Holistic Integration’s Integrated Digital System. |
 | [CHI-Branding](https://github.com/CHI-CityTech/CHI-Branding) | Graphics and branding materials for CHI and related projects. |
 | [CHI-CityTech.github.io](https://github.com/CHI-CityTech/CHI-CityTech.github.io) | CHI organization website. |
 | [.github](https://github.com/CHI-CityTech/.github) | Repository for organization-wide settings and templates. |
@@ -41,7 +42,6 @@ CHI Repositories are divided into different major categories:  Research, Adminis
 #### **Research, Anti-Hate Initiative, & Quantum Music**  
 | **Repository** | **Description** |
 |--------------|----------------|
-| [Student Research](https://github.com/CHI-CityTech/StudentResearch) | Repository for student research proposals and activities. |
 | [Anti-Hate](https://github.com/CHI-CityTech/Anti-Hate) | City Tech’s contribution to the CUNY Anti-Hate campaign. |
 
 
