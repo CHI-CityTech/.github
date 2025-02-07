@@ -9,7 +9,7 @@ This Organization manages data created by one of the many CHI holistic Meta-proj
 ## **the CHI GitHub Structure**  
 The **CHI_CityTech GitHub Organization** serves as the central hub for BSP and related projects. Each team member will contribute to repositories using a structured workflow involving Issues, Branches, Commits, and Pull Requests.
 
-### **Key CHI & BSP Repositories**  
+### **Key CHI & BSP Repositories (Spring 2025)**  
 
 <img src="https://github.com/CHI-CityTech/.github/blob/main/assets/CHI%20Repository%20Structure%202025.png" alt="Description of CHI Repository Structure: divided into two main categories: admin and research" width="600">  
 
