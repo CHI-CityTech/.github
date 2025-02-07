@@ -11,6 +11,8 @@ The **CHI_CityTech GitHub Organization** serves as the central hub for BSP and r
 
 ### **Key CHI & BSP Repositories**  
 
+<img src="https://github.com/CHI-CityTech/.github/blob/main/assets/CHI%20Repository%20Structure%202025.png" alt="Description of CHI Repository Structure: divided into two main categories: admin and research" width="600">  
+
 CHI Repositories are divided into different major categories:  Research, Administration, 
 #### **Balanced Blended Space Theory and Experimentation**  
 | **Repository** | **Description** |
