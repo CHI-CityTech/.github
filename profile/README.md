@@ -13,4 +13,5 @@ This page serves as the hub for all META-projects under the Center for Holistic 
 | [Collaborative-AI](https://github.com/CHI-CityTech/META-Collaborative-AI) | Curriculum and materials for exploring AI as a partner rather than a tool. |
 | [International-collaboration](https://github.com/CHI-CityTech/CHIIDS) | Storage for assets and designs promoting international collaboration, either with CHI as the organizing entity, or CHI as a participant. | 
 | [UNESCO](https://github.com/CHI-CityTech/META-UNESCO) | Investigations in the integration of UNESCO heritage | 
+| [Curriculum]
 
