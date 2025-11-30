@@ -8,10 +8,10 @@ This page serves as the hub for all META-projects under the Center for Holistic 
 |-------------------|-------------|
 | [Balanced-Blended-Space](https://github.com/CHI-CityTech/CHIIDS) | Balanced Blended Space (BBS) is a universal theoretical framework developed at CHI. Integrating physical, virtual, and conceptual spaces. It explores mediation pathways, modular systems, and AI collaboration to create seamless interactions, with applications across various domains, tested in performing arts and beyond. |
 | [Blended-Reality-Performance-System](https://github.com/CHI-CityTech/META-Blended-Reality-Performance-System) | A modular system designed to investigate Balanced Blended Space in the performing arts. |
-| [Blended-Shadow-Puppet](https://github.com/CHI-CityTech/CHIIDS) | The Blended Shadow Puppet (BSP) Meta-project seeks to integrate shadow puppet tradition with 21st century technologies and culture. Part of the BBS project. | 
+| [Blended-Shadow-Puppet](https://github.com/CHI-CityTech/META-Blended-Shadow-Puppet) | The Blended Shadow Puppet (BSP) Meta-project seeks to integrate shadow puppet tradition with 21st century technologies and culture. Part of the BBS project. | 
 | [CHIIDS](https://github.com/CHI-CityTech/META-CHIIDS) | Center for Holistic Integration Integrated Digital System | 
 | [Collaborative-AI](https://github.com/CHI-CityTech/META-Collaborative-AI) | Curriculum and materials for exploring AI as a partner rather than a tool. |
 | [International-collaboration](https://github.com/CHI-CityTech/CHIIDS) | Storage for assets and designs promoting international collaboration, either with CHI as the organizing entity, or CHI as a participant. | 
 | [UNESCO](https://github.com/CHI-CityTech/META-UNESCO) | Investigations in the integration of UNESCO heritage | 
-| [Curriculum]
+| [AI-Curriculum](https://github.com/CHI-CityTech/AI-Curriculum) | Central Repository for CHI-sponsored AI curriculum initiatives |
 
