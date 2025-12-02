@@ -6,7 +6,7 @@ This page serves as the hub for all META-projects under the Center for Holistic 
 
 | META Project Name | Description | 
 |-------------------|-------------|
-| [Balanced-Blended-Space](https://github.com/CHI-CityTech/CHIIDS) | Balanced Blended Space (BBS) is a universal theoretical framework developed at CHI. Integrating physical, virtual, and conceptual spaces. It explores mediation pathways, modular systems, and AI collaboration to create seamless interactions, with applications across various domains, tested in performing arts and beyond. |
+| [Balanced-Blended-Space](https://github.com/CHI-CityTech/META-Balanced-Blended-Space) | Balanced Blended Space (BBS) is a universal theoretical framework developed at CHI. Integrating physical, virtual, and conceptual spaces. It explores mediation pathways, modular systems, and AI collaboration to create seamless interactions, with applications across various domains, tested in performing arts and beyond. |
 | [Blended-Reality-Performance-System](https://github.com/CHI-CityTech/META-Blended-Reality-Performance-System) | A modular system designed to investigate Balanced Blended Space in the performing arts. |
 | [Blended-Shadow-Puppet](https://github.com/CHI-CityTech/META-Blended-Shadow-Puppet) | The Blended Shadow Puppet (BSP) Meta-project seeks to integrate shadow puppet tradition with 21st century technologies and culture. Part of the BBS project. | 
 | [CHIIDS](https://github.com/CHI-CityTech/META-CHIIDS) | Center for Holistic Integration Integrated Digital System | 
