@@ -1,0 +1,89 @@
+name: Weekly Timecard
+description: Record your weekly hours, deliverables, and related links.
+title: "Timecard – Week of YYYY-MM-DD"
+labels: ["timecard", "weekly report"]
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🕒 Weekly Timecard
+        Please complete this timecard for the week indicated in the title.
+
+  - type: input
+    id: week_dates
+    attributes:
+      label: Week Covered
+      description: Enter the start and end dates of the reporting week.
+      placeholder: "YYYY-MM-DD to YYYY-MM-DD"
+    validations:
+      required: true
+
+  - type: textarea
+    id: hours_table
+    attributes:
+      label: Hours Worked
+      description: |
+        Enter your logged hours below in table form.  
+        You can add as many rows as needed.
+      placeholder: |
+        | Date | Hours | Task / Notes |
+        |------|--------|--------------|
+        |      |        |              |
+        |      |        |              |
+        |      |        |              |
+    validations:
+      required: true
+
+  - type: textarea
+    id: deliverables
+    attributes:
+      label: Deliverables Completed
+      description: Summarize the key deliverables or outcomes of this week.
+      placeholder: |
+        - Implemented feature X
+        - Updated documentation for Y
+        - Completed testing of Z
+    validations:
+      required: true
+
+  - type: textarea
+    id: next_steps
+    attributes:
+      label: Next Week’s Goals
+      description: Outline what you plan to work on next week.
+      placeholder: |
+        - Continue refining ...
+        - Prepare presentation for ...
+        - Begin research on ...
+
+  - type: input
+    id: total_hours
+    attributes:
+      label: Total Hours Worked
+      placeholder: "e.g., 18"
+    validations:
+      required: true
+
+  - type: textarea
+    id: links
+    attributes:
+      label: Links and References
+      description: |
+        Add any relevant links related to your work (e.g., commits, PRs, docs, media, etc.).  
+        Use Markdown for clarity.
+      placeholder: |
+        - [Commit #1234](https://github.com/org/repo/commit/abc123)
+        - [Design document](https://example.com)
+        - [Related Issue #56](https://github.com/org/repo/issues/56)
+
+  - type: dropdown
+    id: approval_status
+    attributes:
+      label: Supervisor Approval Status
+      description: Leave blank until reviewed.
+      options:
+        - Pending Review
+        - Approved
+        - Revisions Requested
+      default: 0
