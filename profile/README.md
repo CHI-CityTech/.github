@@ -4,7 +4,7 @@ Welcome to the organizational central location for the **Center for Holistic Int
 This page serves as the hub for the main META-projects under CHI, providing direct access to foundational research, collaborative initiatives, and innovative frameworks that drive CHI’s mission. Explore each META-project below to discover resources, documentation, and active development in areas ranging from digital systems and AI collaboration to cultural heritage and blended reality performance.
 
 
-| META Project Name | Description | 
+| META Project GitHub | Description | 
 |-------------------|-------------|
 | [Balanced-Blended-Space](https://github.com/CHI-CityTech/META-Balanced-Blended-Space) | [Balanced Blended Space (BBS)](https://sites.google.com/view/balancedblendedspace/home) is a universal theoretical framework developed at CHI. Integrating physical, virtual, and conceptual spaces. It explores mediation pathways, modular systems, and AI collaboration to create seamless interactions, with applications across various domains, tested in performing arts and beyond. |
 | [Blended-Reality-Performance-System](https://github.com/CHI-CityTech/META-Blended-Reality-Performance-System) | A modular system designed to investigate Balanced Blended Space in the performing arts. |
